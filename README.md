@@ -30,6 +30,10 @@ Akan Names
     - HTML
     - CSS
 
+## Live link
+    https://amkaku.github.io/week_2_IP
+
+
 ## Contact information.
 Email - arthurkaku@gmail.com
 Mobile - +254717444474
