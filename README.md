@@ -31,7 +31,7 @@ Akan Names
     - CSS
 
 ## Live link
-    https://amkaku.github.io/week_2_IP
+https://amkaku.github.io/week_2_IP
 
 
 ## Contact information.
