@@ -1,6 +1,6 @@
-output {
-    /*display: none;*/
+#output {
+     display: block;
 }
-Akan-name {
+.akan-name {
     display: block;
 }

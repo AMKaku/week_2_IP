@@ -27,6 +27,8 @@ function querry(){
     var output = calculateNameAndDay(userInputCentury,userInputYear,userInputMonth,userInputDay,userInputGender);
     console.log(output);
 
-    var element = document.getElementById("output");
-    console.log(outputElement);
+
+    var outputElement = document.getElementById("output");
+    outputElement.innerHTML = "this is expected";
+    console.log(outputElement.innerHTML);
 }
