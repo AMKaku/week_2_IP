@@ -25,10 +25,6 @@ function querry(){
     var userInputGender = prompt("enter the gender");;
     var userInputCentury = parseInt(userInputYear.toString().substring(0,2));
     var output = calculateNameAndDay(userInputCentury,userInputYear,userInputMonth,userInputDay,userInputGender);
-    console.log(output);
-
-
     var outputElement = document.getElementById("output");
-    outputElement.innerHTML = "this is expected";
-    console.log(outputElement.innerHTML);
+    outputElement.innerHTML = "You were born on! " + output[0] + ". Your Akan name is: " + output[1];
 }
